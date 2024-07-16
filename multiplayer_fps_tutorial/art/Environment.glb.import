@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ckf3250w8jpro"
-path="res://.godot/imported/Environment.glb-8e7d6fb98c52ec29ad01d3fe74a3c16f.scn"
+path="res://.godot/imported/Environment.glb-becca3a0d0984f77f12d03f573f9c70c.scn"
 
 [deps]
 
-source_file="res://models/Environment.glb"
-dest_files=["res://.godot/imported/Environment.glb-8e7d6fb98c52ec29ad01d3fe74a3c16f.scn"]
+source_file="res://multiplayer_fps_tutorial/art/Environment.glb"
+dest_files=["res://.godot/imported/Environment.glb-becca3a0d0984f77f12d03f573f9c70c.scn"]
 
 [params]
 

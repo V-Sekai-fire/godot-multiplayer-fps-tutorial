@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c31g4jk8pw3uq"
-path="res://.godot/imported/Environment.blend-358a1c0602f6c7c9dd6b67f8f2181c4e.scn"
+path="res://.godot/imported/Environment.blend-b32c82086a988fe6b3b0060f6b8de670.scn"
 
 [deps]
 
-source_file="res://models/Environment.blend"
-dest_files=["res://.godot/imported/Environment.blend-358a1c0602f6c7c9dd6b67f8f2181c4e.scn"]
+source_file="res://multiplayer_fps_tutorial/art/Environment.blend"
+dest_files=["res://.godot/imported/Environment.blend-b32c82086a988fe6b3b0060f6b8de670.scn"]
 
 [params]
 

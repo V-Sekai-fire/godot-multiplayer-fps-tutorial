@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://c1j7an8woikyd"]
 
-[ext_resource type="PackedScene" uid="uid://ckf3250w8jpro" path="res://models/Environment.glb" id="1_p4eel"]
+[ext_resource type="PackedScene" uid="uid://ckf3250w8jpro" path="res://multiplayer_fps_tutorial/art/Environment.glb" id="1_p4eel"]
 [ext_resource type="Texture2D" uid="uid://bugwfwhpqfp1n" path="res://addons/kenney_prototype_textures/dark/texture_09.png" id="2_dpxbx"]
 [ext_resource type="Texture2D" uid="uid://1opha1cxcimy" path="res://addons/kenney_prototype_textures/orange/texture_10.png" id="3_tbg6f"]
 
